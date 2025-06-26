@@ -8,7 +8,7 @@ Agent is a Python project designed to empower data scientists and analysts with 
 - Perfect for rapid prototyping, teaching, or as a starting point for production data apps
 
 ## Getting Started
-Clone the repository and start exploring data with your favorite Python tools!
+Clone the repository and start exploring data with your favorite Python tools.
 
 ---
 
